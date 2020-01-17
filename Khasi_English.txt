@@ -1,0 +1,975 @@
+Khublei!,Thank you!
+Balei?,Why?
+Pynjaijai,Cool off!
+Rieh!,Take cover!
+Peit,Watch
+Mih!,Leave!
+Phet!,Scram!
+Iehnoh!,Leave!
+Tan!,Pull!
+Pyneh!,Pull yourself together!
+Adi!,Ouch!
+Ada!,Ouch!
+Bam!,Eat!
+Ieng!,Stand up!
+Shuh,Stand aside
+Tam,Pick it up
+Khar,Pick it up
+Hooid,Yes
+Haoid,Yes
+Em,No
+Nai,No
+Map,I'm sorry
+Kloi,Hurry up
+Wut,Hurry up
+Lait,Wrong
+Kaei?,What?
+Uei?,What?
+Iei?,What?
+Ani!,Wow!
+Iap?,Dead?
+Hatshi!,Achoo!
+Shisha!,Really?
+Kumno!,Hello!
+Ei!,Hello!
+Biang!,Perfect!
+Sngewbha,Please
+Bew!,Fuck!
+Biw!,Fuck!
+Bow!,Fuck!
+Iarap!,Help!
+Sangeh!,Stop!
+Thngan?,Hungry?
+Bieij,Crazy!
+Eit,Shit
+Bleh,Blah
+Thik!,Precisely!
+Bymlahlong!,That's impossible
+Kamkai!,Nonsense!
+Ïap!,Die!
+Ho!,Goodbye!
+Mo!,Goodbye!
+Ei,Hi
+Kadei!,Correct!
+Dei!,Correct!
+Kynthih,Jump
+Ryngkoh,Jump
+Shhhh!,Hush!
+Bieij!,Idiot!
+Kale!,Idiot!
+Sniang!,Idiot!
+Te,Duh
+Sdieh,Fry
+Kynmaw!,Remember!
+Wan!,Come!
+Mareh!,Run!
+Bymlahlong,Impossible
+Ihiw!,Hooray!
+Kamkai,Nonsense
+Phylla,Strange
+Te?,So?
+Rung!,Enter!
+Shuh!,Scram!
+Jarjar!,Quiet!
+Sngapjar!,Quiet!
+Pyrshang!,Try!
+Sdang!,Begin!
+Kren!,Speak!
+Peit!,Look!
+Kloi!,Quick!
+Wut!,Quick!
+Siat!,Fire!
+Kumno,Hello
+Sngap,Listen
+Mano?,Who?
+Jubab!,Answer!
+Jaituh,Lazybones
+Thoh!,Write!
+Shabar!,Out!
+Leit,Go
+Khie,Go
+Dem!,Kneel!
+Nguh!,Kneel!
+To,Alright
+Ap,Wait
+Shibun!,Very!
+Aw!,Ow!
+Em?,Right?
+Kumjuh,Likewise
+Nga!,Me!
+Manga!,Me!
+Hangne?,Here?
+Shane?,Here?
+Jied,Choose
+Sngewthuh?,Understood?
+Jaijai,Chill
+Her!,Fly!
+Iaid,Walk
+Husiar!,Beware!
+Bang!,Yummy!
+Tynnad!,Pretty!
+Rymmuiñ!,Smile!
+Shri!,Smile!
+Thiah!,Sleep!
+Tharai,Maybe
+Dei,Correct
+Iakhun!,Fight!
+Iashoh!,Fight!
+Thied!,Buy!
+Die!,Sell!
+Rwai!,Sing!
+Lehkai!,Play!
+Tem!,Play!
+Khynñiat,Push
+Dwai,Pray
+Hynrei balei?,But why?
+Sa kaei?,What else?
+Naduh mynno?,Since when?
+Mynno kata?,When was that?
+Ka jingkhyllah!,How weird is that?
+Sngewbha jarjar,Please keep your voice down
+Baleh aiu?,Why?
+Ka pang,That hurts
+Jied iwei,Choose one
+Jied uwei,Choose one
+Jied kawei,Choose one
+Kwah iwei?,Want one?
+Kwah uwei?,Want one?
+Kwah kawei?,Want one?
+Long jaijai,Be cool
+Ai sha,Give tea
+Wanrah sha,Bring tea
+Peit ialade,Watch yourself
+Da peit!,Watch out!
+Leh bha!,Watch out!
+Pyneh ialade!,Pull yourself together!
+Masi bakhuid!,Holy cow!
+Mih mynta,Leave now
+Ieh shadien,Leave it behind
+Kiei kito?,What are those?
+Shong khop,Sit tight
+Shong beit,Sit tight
+Sngewbha shong,Please sit
+Khublei shibun!,Thank you very much!
+Ka slap,It is raining
+Ngam tip,I don't know
+Jisu khrist!,Jesus Christ!
+Khublei Jisu,Thank you Jesus
+Haoid kein,Of course
+Phi kyllut?,Are you deaf?
+Pha kyllut?,Are you deaf?
+Me kyllut?,Are you deaf?
+Sa shisien,One more time
+Mano thngan?,Who's hungry?
+Lah bieij?,Are you crazy?
+Nyllong me!,My ass!
+Nga dei,I am
+Mei mariang,Mother Earth
+Mei ramew,Mother Earth
+Ka jingstad!,How smart!
+Ka jingbieij,How foolish!
+Ka jingiskuin,How cute!
+Ka jingsngewtynnad!,How wonderful!
+Wat khuslai,Don't worry
+Bam lut,Eat everything
+Bam baroh,Eat everything
+Bam barohkhoit,Eat everything
+Nga bam,I eat
+Bam shaw,Eat noodles
+Bam soh!,Eat fruits!
+Bam suki,Eat slowly
+Ieng joit!,Stand up!
+Shuh shatai,Stand aside
+Wat wit,Stand aside
+Shuh nangne,Stand aside
+Ieng beit!,Stand still!
+Ieng khop!,Stand still!
+Ka shit,It's hot
+Ka khluit,It's hot
+Ho oah,Yes
+Hm mm,Yes
+Mm huh,No
+Iarap ianga,Help me
+Ngam sngewthuh,I don't understand
+Lah thikna?,Are you sure?
+Map ianga,I'm sorry
+Kloi kloi,Hurry up
+Wut wut,Hurry up
+Ngin rem,We'll fail
+Iohsngew ianga?,Can you hear me?
+Kren jem,Speak softly
+Kren suki,Speak softly
+Wan kloi!,Come quick!
+Khublei baroh,Thanks everyone
+Ka pyngngad,It's refreshing
+Kham eh,Louder
+Kham jam,Louder
+Kham jarjar,Quieter!
+Lah iap?,Dead?
+Bymlah ngeit,Unbelievable!
+Khatduh-khatwai!,Finally!
+Shiteng khlieh,Crazy!
+Ai chalk,Give me a piece of chalk
+Lah dep,Done
+Khreh kot!,Study!
+Lah biang!,Enough!
+Dep shato!,Whatever!
+O te,Duh
+Da kynmaw!,Remember!
+Thiah suk,Goodnight!
+Kloi wut!,Quick!
+Dang shen,Recently
+Shibun eh!,Very!
+Lah pei?,Understood?
+Haba kumta?,Therefore?
+Balei phi mynjur?,Why did you agree?
+Balei phi slem?,Why are you late?
+Hangno phi don?,Where are you?
+Haei phi don?,Where are you?
+Lano ka bammiet?,When's dinner?
+Lano sngikha jongphi?,When is your birthday?
+Lano kut skul?,When is school over?
+Lano kan sdang?,When does it begin?
+Nga don thyllieh,I have dandruff
+Shaei ka jhat?,Where is the ship?
+Nga dang duhnong,I'm losing business
+Ka pang kato,That hurts
+Ka pynshrai bha,It's really annoying
+Sngewbha try iwei,Please try one
+Sngewbha try uwei,Please try one
+Sngewbha try kawei,Please try one
+Sngewbha pyrshang uwei,Please try one
+Sngewbha pyrshang kawei,Please try one
+Sngewbha pyrshang iwei,Please try one
+Nga pang jingshong,My butt hurts
+Tap ki khmat,Cover your eyes
+Sngewbha tap ialade,Please cover yourself
+Phi dih sha,You drink tea
+Pha dih sha,You drink tea
+Me dih sha,You drink tea
+Da peit bha!,Watch out!
+Tan kan plie,Pull it open
+Bapli ka miaw,Poor cat
+Ka miaw bapli,Poor cat
+Bapli u miaw,Poor cat
+U miaw bapli,Poor cat
+Bapli i miaw,Poor cat
+I miaw bapli,Poor cat
+Shano phi don?,Where are you?
+Shaei phi don?,Where are you?
+Iaishah bad nga,Bear with me
+Iashah bad nga,Bear with me
+Ngi kren nongjapan,We speak Japanese
+Tom hadien me!,Tom behind you!
+Tom hadien phi!,Tom behind you!
+Tom shadien me!,Tom behind you!
+Tom shadien phi!,Tom behind you!
+Tom nadien phi!,Tom behind you!
+Tom nadien me!,Tom behind you!
+Shaei ka painkhana?,Where is the toilet?
+Haei ka painkhana?,Where is the toilet?
+Shano ka painkhana?,Where is the toilet?
+Hangno ka painkhana?,Where is the toilet?
+Kito kidei kiei?,What are those?
+Katno baje mynta?,What time is it now?
+Ym lei lei,You're welcome
+Nga ieid iaphi,I love you
+Sa iapeit lashai,See you tomorrow
+Em kam slap,It is not raining
+Ngam don bor,I have no energy
+Nga donkam iaphi,I need you
+Nga donkam kane,I need this
+Bha bha khublei,Very good thank you
+Nga kyrteng Tom,My name is Tom
+Phi kyrteng aiu?,What is your name?
+Phi leh aiu?,What are you doing?
+Ngam don por,I don't have time
+Nga shu ongkai,I'm just joking
+Khlieng ki tiar,Wash the dishes
+Sait ki tiar,Wash the dishes
+Khlieng ki pliang,Wash the dishes
+Sait ki pliang,Wash the dishes
+Thet ki kti,Wash your hands
+Sait ki kti,Wash your hands
+Bta ka khmat,Wash your face
+Sait ka khmat,Wash your face
+Khulom jongno kine?,Whose are these pens?
+Namar ka sngewshitom,Because she felt sick
+Biang bha khublei,Very good thank you
+Phi kyllut ne?,Are you deaf?
+Pha kyllut ne?,Are you deaf?
+Me kyllut ne?,Are you deaf?
+Sa shisien seh,One more time please
+Sa shisien sngewbha,One more time please
+Don sa kawei,There's one more
+Don sa iwei,There's one more
+Don sa uwei,There's one more
+Ngan sa leh,I will do it
+Phi kyrteng kumno?,What is your name?
+Kumno phi kyrteng?,What is your name?
+Kyrteng kumno phi?,What is your name?
+Kyrteng kumno maphi?,What is your name?
+Kyrteng aiu phi?,What is your name?
+Kyrteng aiu maphi?,What is your name?
+Phi iohthiah bha?,Did you have a good sleep?
+Ngam tip balei,I didn't know why
+Mano ba thngan?,Who's hungry?
+Ka bha kane,This is good
+Ka best kane,This is good
+U kynjat iaka,He kicked it
+Kan nym her,It won't fly!
+In nym her,It won't fly!
+Doh jingshong jongnga,Kiss my ass
+Nga shu pynthikna,I was just making sure
+Nga khlem tam,I didn't pick it up
+Nga khlem khar,I didn't pick it up
+Nga lah wan,I am coming
+Nga shu kylli,I'm just asking
+Kumno phi long?,How are you?
+Ieid iaka pyrthei,Love the earth
+Nga thngan palat!,I'm so hungry!
+Nga don jingieng,I have an erection
+Song ki tiar,Pack your bags
+Song ki pla,Pack your bags
+Lum ki pla,Pack your bags
+Lum ki tiar,Pack your bags
+Ka shit mynta,It's hot today
+Ka shit palat,It's too hot
+Ka khluit palat,It's too hot
+Ka kheit syntiew,She picked flowers
+Ka phut syntiew,She picked flowers
+Ka tam syntiew,She picked flowers
+Ka khar syntiew,She picked flowers
+Nga ieid iapha,I love you
+Nga ieid iame,I love you
+Phi kren english?,Do you speak English?
+Phi kren phareng?,Do you speak English?
+Haei phi sah?,Where do you live?
+Phi dei mano?,Who are you?
+Phi dei iei?,Who are you?
+Phi kwah aiu?,What do you want?
+Aiu phi kwah?,What do you want?
+Kaei phi kwah?,What do you want?
+Ngin sa rem,We'll fail
+Phi ong aiu?,What're you saying?
+Phi kren aiu?,What're you saying?
+Nga bishni iaphi,I was jealous of you
+Ki iakylliang jingaikhublei,They exchanged hellos
+Bud iaki khlur,Follow the stars
+Sangeh Ka smieij,Stop That tickles
+Sangeh pynsmieij ianga,Stop tickling me!
+Wat pynsmieij ianga,Don't tickle me!
+Wat ktik ianga,Don't tickle me!
+Sangeh ktik ianga,Stop tickling me!
+Ka eh kane,This is difficult
+Kane ka eh,This is difficult
+Kane ka jynjar,This is difficult
+Ka jynjar kane,This is difficult
+Shu khie joit,Just get up
+Pule shuwa iakane,Read this first
+Pule iakane shuwa,Read this first
+Iakane shuwa pule,Read this first
+Ngan tip kumno?,How should I know?
+Ka peit ianga,She looked at me
+I peit ianga,She looked at me
+Nga khublei iaphi,I thank you
+Wat bakla biang,Don't repeat the same mistake!
+Ka khriat bha,I was so cold
+Nga ioh beer,I've got beer
+Ngan don hangne,I'll be right in here
+Ngin iarap iaka,We're going to help her
+Ki ialeh aiu?,What're they doing?
+Aiu ki ialeh?,What're they doing?
+Ka pynlyngngoh ianga,It took me by surprise
+U donkam pisa,He is in need of money
+Ka sngewieid bha,That was really sweet
+Shaei u director?,Where's the director?
+Shaei ka director?,Where's the director?
+Shaei i director?,Where's the director?
+U sngapjar shiphang,He remained silent for a while
+Long ngan call?,Can I make a phone call?
+U khapniah jingmut,He's closed-minded
+Ki sah shapoh,They live downstairs
+Ka dang khapñiah,It's still crowded
+Ngam jied bam,I'm not usually picky about food
+Nga bam naphang,I'm not usually picky about food
+Ka shait sngewtynnad,It used to be such fun
+Mat ia dep!,Whatever!
+Lah leit mo!,Goodbye!
+Sa leit ho!,Goodbye!
+Da kumno kumno,Anyway
+Man ka por,Always
+Ha ka jingshisha,Honestly
+Don ba wan?,Did anybody come?
+Bat ia u,Grab him
+Don ba iohsngew ianga?,Does anybody hear me?
+Sa kaei don hangto?,What else is there?
+Katno baje wai skul?,When is school over?
+U ieng hangto shiphang,He stood there for a while
+Ka bneng ka shai,The sky brightened
+Nga don u paralok,I have a friend
+Nga don ka paralok,I have a friend
+Nga don i paralok,I have a friend
+Jingshong jongnga ka pang,My butt hurts
+Ngan kynjat jingshong jongphi,I'll kick your butt!
+Phi ia dih sha,You drink tea
+Me ia dih sha,You drink tea
+Pha ia dih sha,You drink tea
+Pule kane ka kot,Read this book
+Phi thied eiei ianga?,Did you buy me anything?
+Ki dei ki nongjapan?,Are they Japanese?
+Peit shadien jong phi,Look behind you
+Peit shadien jong me,Look behind you
+Peit shadien jong pha,Look behind you
+Peit hadien jong phi,Look behind you
+Peit hadien jong me,Look behind you
+Peit hadien jong pha,Look behind you
+Tom hadien jong me!,Tom behind you!
+Tom hadien jong phi!,Tom behind you!
+Tom shadien jong me!,Tom behind you!
+Tom shadien jong phi!,Tom behind you!
+Tom nadien jong phi!,Tom behind you!
+Tom nadien jong me!,Tom behind you!
+U don phra snem,He is eight
+U mih phra baje,He leaves at eight
+Kiei kito ki nombar?,What are those numbers?
+Khot kumno ia kito?,What are those called?
+Khot aiu ia kito?,What are those called?
+Ngam pat don khun,I don't have any children yet
+Haei phi don mynta?,Where are you now?
+Phi don por lashai?,Do you have time tomorrow?
+Ngi leit sha iew,We are going to the market
+Nga donkam ia kane,I need this
+Nga nang ban jngi,I know how to swim
+Ka donkam ban sait,It needs washing
+Ngam nang ban jngi,I don't know how to swim
+U Jisu u iam,Jesus wept
+Kaei ka kyrteng jongphi?,What is your name?
+Nga dang bam ja,I am eating rice
+Kine ki khulom jongno?,Whose are these pens?
+Jongno kine ki khulom?,Whose are these pens?
+Namar ka don hangto,Because it is there
+Da peit ka lynti,Watch the road
+Da peit ka surok,Watch the road
+Nga dang shu khie,I just got up
+Ka pyndom ia u,She teased him
+Ka pynshrai ia u,She teased him
+Nga khlem tip balei,I didn't know why
+Mano ba lah thngan?,Who's hungry?
+Ka bha bha kane,This is very good
+Ka best bha kane,This is very good
+Phi sngewtynnad ka film?,Do you like the movie?
+Phin nym doh ianga?,Aren't you going to give me a kiss?
+Phi lah bieij ne?,Are you crazy?
+Me lah bieij ne?,Are you crazy?
+Pha lah bieij ne?,Are you crazy?
+Nga dang pule Japanese,I am learning Japanese
+Ka wah ka tuid,A river flows
+Peit ha ka dur,Look at the picture
+Ngi sah ha pyrthei,We live on Earth
+Nga lah thngan palat,I'm so hungry!
+Ka siat iaka helicopter,She shot down a helicopter
+U ban iaka khyllung,He is lying on the baby
+Nga biang ia mynta,I'm OK for now
+Ka dang ring mynsiem,It's still breathing
+Ngin sa ia rem,We'll fail
+Phim tip iaka system,You don't know the system
+Ki khlur ki itynnad,Stars are beautiful
+Ki khlur ki mih,The stars came out
+U bnai u shai,The moon is shining
+U bnai u phyrnai,The moon is shining
+Ka khylliap iaka nep,She folded the quilt
+Kumno ngin leh iakata?,How are we going to do that?
+Ngin leh kumno iakata?,How are we going to do that?
+Ka ieid ban shet,She loves to cook
+Nga kwah iaphi Tom,I want you Tom
+Nga kwah iame Tom,I want you Tom
+Kumno ngan shu tip?,How should I know?
+Ngan shu tip kumno?,How should I know?
+Nga dei ka kristan,I'm a Christian
+Ki la khot iaphi,They called you
+Nga kynmaw ia kata,I remember that
+Nga kynmaw ia kato,I remember that
+Nga kynmaw ia katei,I remember that
+Nga kynmaw ia katai,I remember that
+Kum kynrad kum nongbud,Like master like disciple
+Wat thok Iathuh hok,Don't tell a lie Be honest
+Ngi la wan iing,We've come home
+U lehkai beach volleyball,He plays beach volleyball
+Kata kalong kaba sniewbok,That was unfortunate
+Sngewbha mih na kamrashet,Please get out of the kitchen
+Nga hap ai jingkren?,Do I have to make a speech?
+Shaei de ngan leit?,Where else would I go?
+Phet na iing jongnga,Get out of my house!
+Phi dei ban sngapjar,You must keep quiet
+Ngan shim ka jacket,I'll take the jacket
+Nga kwah ban iashoh,I want to fight
+Balei ngam sngewthuh phareng?,Why don't I understand English?
+Balei ngam sngewthuh English?,Why don't I understand English?
+Nga isih beit iaka,I've always hated her
+Nga sngew sieh iaki,I feel bad for them
+Phi nang ktien aiu?,What languages do you know?
+U jrong bad khlaiñ,He is tall and strong
+Phi khlem pynpait iaka,You didn't break it
+Phim shym pynpait iaka,You didn't break it
+Ngam pyrkhat kum maphi,I don't think like you
+Ngam pyrkhat kum mame,I don't think like you
+Ngam pyrkhat kum mapha,I don't think like you
+Nga khlem iohsngew iaphi,I did not hear you
+Ngam shym iohsngew iaphi,I did not hear you
+Phim pat pyrshang hi,You haven't even tried
+Jia aiu ia nga?,What is wrong with me?
+Ka pynkyndit ia nga,It took me by surprise
+Sa iakynduh ha ïng,I'll see you at home
+Nga kwah jam sohplom,I'd like some plum jam
+Ngi don aiu-aiu,We've got something
+Balei kim don hangne?,Why aren't they here?
+Map Nga wan slem,I'm sorry I came late
+Baroh lah shah ktah,Everyone has been affected
+Nga khlem vote iaphi,I didn't vote for you
+Don tennis court hangne?,Is there a tennis court around here?
+Balei phim sngewtynnad ianga?,Why don't you like me?
+Ngin pyrshang ban iarap?,Should we try to help?
+Une udei u jongnga,That is mine
+U Tom u demkhohsiew,Tom was kneeling
+Ki juti jongphi kine?,Are these your shoes?
+Ki juti jongme kine?,Are these your shoes?
+Ki juti jongpha kine?,Are these your shoes?
+Mat ia dep shato!,Whatever!
+Balei phi ia lyngngoh?,Why are you all shocked?
+Kaei ka ban kylla?,What'll change?
+Nga don kum ito,I've got one just like that
+Nga don kum kato,I've got one just like that
+Nga don kum uto,I've got one just like that
+Ka khlem iaid bha,It didn't go well
+Ka khlem long bha,It didn't go well
+Ka dukan ka khang lashai,The store will be closed tomorrow
+Shim da kawei ka shuki,Take the other chair!
+Kane ka shuki ka isih,This chair is ugly
+Kine ki shuki ki pher,These chairs are different
+Kane ka shuki ka sting,This chair is light
+ka bneng ka i dom,The sky looks angry
+Phi iohi ia ka kper?,Do you see the garden?
+Phi dei ban pyndonkam deo,You should use a deodorant
+Ka jaka ka sboh bha,The land is very fertile
+Ka khyndew ka sboh bha,The land is very fertile
+Ka phong ka coat shñiuh,She was wearing a fur coat
+Nga dang wad dukan khapsñiuh,I was looking for the barbershop
+Ki masi ki ai dud,Cows give milk
+Ki masi ki bam phlang,Cows eat grass
+ki masi ki don reng,Cows have horns
+U dngiem u dait ialade,The bear bites itself
+Hangne sah uwei u dngiem,Here lives one bear
+U lah don phra snem,He is eight
+U mih por phra baje,He leaves at eight
+Ka painkhana ka don shajrong,The toilet is upstairs
+Ka painkhana ka don hajrong,The toilet is upstairs
+Ka painkhana ka don shalor,The toilet is upstairs
+Ka painkhana ka don halor,The toilet is upstairs
+Kito kidei ki nombar aiu?,What are those numbers?
+La khot kumno ia kito?,What are those called?
+La khot aiu ia kito?,What are those called?
+Hooid nga don por lashai,Yes I have time tomorrow
+Ki khynnah ki donkam jingieid,Children need loving
+U Jisu u jubab iaki,Jesus answered them
+U Jisu u isih iaphi,Jesus hates you
+U Jisu u ieid iaphi,Jesus loves you
+Kane ka dei ka miaw,This is a cat
+Kine ki dei ki khulom,These are pens
+Ai sha nga u khulom,Pass me the pen
+Ai ha nga u khulom,Pass me the pen
+U Tom u i hok,Tom seems sincere
+Ngam kwah ban pynthut iaphi,I don't want to disturb you
+Ban ksem ka long khlemakor,Farting is rude
+Phim lah ban lait nanga,You can't escape from me
+Phim lah ban phet nanga,You can't escape from me
+Mem lah ban lait nanga,You can't escape from me
+Pham lah ban lait nanga,You can't escape from me
+Ym donkam ban leh iakato,There is no necessity for you to do that
+Ym donkam ban leh iakata,There is no necessity for you to do that
+Nga iohi ia u lum,I saw the hill
+U lum u jyrngam beit,The hill is always green
+Ngi iaid shajrong u lum,I walked up the hill
+Ka wah ka lah shlei,The river overflowed
+Ngim ju kren phareng hangne,English is not spoken here
+Ka pyrthei ka shad pyllun,The earth rotates
+Nga ieid ia u Blei,I love God
+Ka shit mynta ka sngi,It's hot today
+U ban ia i khyllung,He is lying on the baby
+U ban ia u khyllung,He is lying on the baby
+Nga thikna phi bunkam bha,I'm sure you're very busy
+Nga thikna pha bunkam bha,I'm sure you're very busy
+Nga thikna me bunkam bha,I'm sure you're very busy
+Don ki dewlynnong haka duriaw,There are islands in the sea
+Nga don artylli ki miaw,I have two cats
+Ngam kwah ban leit skul,I don't want to go to school
+Phi lah don katno snem?,How old are you?
+Nga lah kyrshan iaphi shilynter,I have supported you throughout
+Nga don hangne ban sah,I'm here to stay
+Phi lah ban iohsngew ianga?,Can you hear me?
+U bnai u lah sep,The moon has set
+Kane ka long kaba eh,This is difficult
+Kane ka long kaba jynjar,This is difficult
+Hynrei kidei lut ki briew,But they are all people
+Nga khlem mut ban peitseh,I didn't mean to stare
+Nga khlem kwah ban leh,I didn't want to do it
+Ngan nym leit phai biang,I'm not going to go back
+Me ioh ban peit iaka,Did you get a good look at her?
+Ngam donkam shuh iaka loan,I no longer need a loan
+U Tom u i sngewsih,Tom looks sad
+Ka long ka bymlahlong ianga,That's impossible for me
+Nga lah isih beit iaka,I've always hated her
+Phin ia sngewbha sangeh iashoh,Will you guys please stop fighting?
+U shong haka seat bashakhmat,He is sitting in the front seat
+Phi dei uba heh tam,You're the biggest
+Phi long uba heh tam,You're the biggest
+Nga sngew kum ka rit,I feel like shit
+Jia aiu mynta ha Poland?,What's happening now in Poland?
+Phi don samla ba biang?,Do you have a steady boyfriend?
+Nga lah pynjrong iaka shuti,I extended my holiday
+Nga lah pynjlan iaka shuti,I extended my holiday
+Ngam tharai kin iohsngew iangi,I don't think they're going to hear us
+Phi lah poi sha Minnesota?,Have you ever been to Minnesota?
+Phi lah sait ki kti?,Have you washed your hands yet?
+U poi hangne dang mynta,He arrived here just now
+U poi shane dang mynta,He arrived here just now
+Kyrteng aiu kane ka wah?,What is the name of this river?
+Ai katba pan u Tom,Give Tom everything he asks for
+Phim sngewbha leit re shata?,Will you please go there?
+Nga sngewthuh balei phi dom,I understand why you're angry
+Ngi don aiu-re-aiu,We've got something
+Ngi don kaei-re-kaei,We've got something
+Ngi don uei-re-uei,We've got something
+Ki juti nga ki brown,My shoes are brown
+U Tom u kwah iaphi,Tom wants you
+U Tom u kwah jubab,Tom wants answers
+U kynthih ia ka thliew,He jumped over a ditch
+Phim lah ban thied iakane,You can't afford this
+Ngan nym iathuh iaki kata,I'm not going to tell them that
+Ka jylliew kane ka nan?,Is this lake deep?
+Nga khlem dih ka um,I didn't drink the water
+Phi poi iohi iaka mynnin?,Did you happen to see her yesterday?
+Shu iathuh ianga jia aiu,Just tell me what's going on
+Kane ka dei ka jongnga,This belongs to me
+Ngi kwah kaba bha iaphi,We want what's best for you
+Ngan leit sha Australia lashembnai,I'm going to Australia the month after next
+Khublei na ka bynta baroh,Thanks for everything
+U Tom u dang demkhohsiew,Tom was kneeling
+U lah pynhiar kyrdan iaphi,He demoted you
+U lah pynhiar kyrdan iame,He demoted you
+U lah pynhiar kyrdan iapha,He demoted you
+Shano phi kwah ban leit?,Where would you like to go?
+Shano me lwah ban leit?,Where would you like to go?
+Shano pha kwah ban leit?,Where would you like to go?
+Shaei phi kwah ban leit?,Where would you like to go?
+Shaei pha kwah ban leit?,Where would you like to go?
+Shaei me kwah ban leit?,Where would you like to go?
+Kine kidei ki juti jongphi?,Are these your shoes?
+Kine kidei ki juti jongme?,Are these your shoes?
+Kine kidei ki juti jongpha?,Are these your shoes?
+Don mano mano ba wan?,Did anybody come?
+Ki leh kumba ki tieng,They pretended they were afraid
+Phi leh aiu katto baje?,What were you doing at that time?
+Me leh aiu katto baje?,What were you doing at that time?
+Pha leh aiu katto baje?,What were you doing at that time?
+Ngam ju dei kaei-kaei ruh,I can't get anything right
+Nga sngewbha shibun ban don hangne,I'm very pleased to be here
+Phi don eiei ban kylli ianga?,Is there something you want to ask me for?
+Nga ieid ia katai ka shuki,I love that chair
+Ngam khot iaphi da ka kyrteng,I'm not calling you by name
+Ka long ka bymlahlong ban shna,It's impossible to fix
+U Tom u shoh shwa ianga,Tom hit me first
+Ka ksieh ia kawei ka miaw,She strangled a cat
+Phi mut ba nga leh bakla?,Do you think I'm making a mistake?
+Me mut ba nga leh bakla?,Do you think I'm making a mistake?
+Pha mut ba nga leh bakla?,Do you think I'm making a mistake?
+Ka thoh ianga ka shithi bajrong,She wrote me a long letter
+Baroh ki han-blei ki lieh,All swans are white
+Ki han-blei ki lieh lut,All swans are white
+Ki lieh lut ki han-blei,All swans are white
+Ki masi ki ai dud iangi,Cows give us milk
+U don shiphew tylli ki masi,He has ten cows
+Ka jingshisha ka pyni iaka jingisat,The truth bears hatred
+Ka jingdom ka dei ka bor,Anger is an energy
+U kofi u ai bor iaphi,Coffee gives you energy!
+Ka khriat bha mynta ka sngi,It is very cold today
+Kine ki khulom kidei jong u,These pens are his
+Kumno ka long ka jingpule jongme?,How are your studies going?
+Balei ia kane hap ban pyndep?,Why does this have to be done?
+Phim dei tang maphi ba thngan?,You're not the only one who's hungry
+Mem dei tang mame ba thngan,You're not the only one who's hungry
+Ngam dei tang manga ba thngan,I'm not the only one who's hungry
+Kumno la pyndonkam iakane ka kamera,How do you use this camera?
+Ka ksem jong u ka sma,His fart smelled
+Ban ksem ka long kaba khlemakor,Farting is rude
+Phin ym lah ban lait nanga,You can't escape from me
+Phin ym lah ban phet nanga,You can't escape from me
+Phin nym lah ban lait nanga,You can't escape from me
+Phin nym lah ban phet nanga,You can't escape from me
+Men ym lah ban lait nanga,You can't escape from me
+Men nym lah ban lait nanga,You can't escape from me
+Men ym lah ban phet nanga,You can't escape from me
+Men nym lah ban phet nanga,You can't escape from me
+Phan ym lah ban lait nanga,You can't escape from me
+Phan nym lah ban lait nanga,You can't escape from me
+U Tom u kwah aiu tip,I wonder what Tom wants
+Phim donkam ban leit skul lashai,You don't have to go to school tomorrow
+Nga kwah klet noh shaphang kato,I just want to forget about it
+Ngam kwah ban leit sha skul,I don't want to go to school
+Ka khot sngewbha ianga ban bam,She invited me to eat
+Don tang ki kot ha duli,There are only books on the shelf
+Tom bad Mary ki don shabar,Tom and Mary are outside
+Ki khlur ki long kiba itynnad,Stars are beautiful
+Nga kwah iaphi ban doh ianga,I want you to kiss me
+Ngi lah dei ban iapoi biang,We should be getting back
+Baroh ki don eiei ban buhrieh,Everybody's got something to hide
+Ngam kwah tip eiei shaphang kata,I don't want to know anything about that
+Kiei ki ktien ba phi nang?,What languages do you know?
+Nga iakynduh ia u ha jingkhawai,I met him at a party
+Ka lah slem ban leh iakata,It's too late to try that
+Ka lah dier ban leh iakata,It's too late to try that
+U mih khlem khang ka jingkhang,He left without having shut the door
+Phi lah ju poi sha Minnesota?,Have you ever been to Minnesota?
+Balei phi donkam TV ba thymmai?,Why do you need a new television?
+U dih sha man ka step,He has tea every morning
+U don ha ka jingdonkam pisa,He is in need of money
+Kane ka wah ka kyrteng aiu?,What is the name of this river?
+Aiu ka kyrteng kane ka wah?,What is the name of this river?
+U Tom u hap naki mawstep,Tom fell down the stairs
+Ngam pat iohi iaka lah slem,I haven't seen her for a long time
+Kumno ngan pyniapbieij ia u Tom?,How am I going to impress Tom?
+Jied ia iba phi sngewtynnad tam,Pick the one you like best
+Jied ia iba phi best tam,Pick the one you like best
+U Tom un pynmynsaw ia phi,Tom is going to hurt you
+U Tom un pynmynsaw ia pha,Tom is going to hurt you
+U Tom un pynmong ia me,Tom is going to hurt you
+U Tom un pynmong ia phi,Tom is going to hurt you
+U Tom un pynmynsaw ia me,Tom is going to hurt you
+U Tom un pynmong ia pha,Tom is going to hurt you
+Ngan sa iakynduh iaphi ha ïng,I'll see you at home
+Ngan sa iakynduh iame ha ïng,I'll see you at home
+One I dei I tiket kot,This is a paper ticket
+Ngi trei na bynta u Tom,We work for Tom
+U Tom u sdang ban khih,Tom began to move
+Phi tip katno ngi lah iohnong?,Do you know how much profit we made?
+Nga lah leh katba nga leh,I gave it my best shot
+Ngan leit sha office u Tom,I'm going to Tom's office
+U Tom u jop iaka election,Tom won the election
+Ngi bam lang man ka janmiet,We eat together every evening
+Naduh mynno phi lah pule Latin?,Since when have you been learning Latin?
+Ki kwah biang ia u Tom,They want Tom back
+Phim kwah pynsangeh ia u Tom?,Don't you want to stop Tom?
+Ka ïng jongnga ka khriat bha,My house is very cold
+Ka phone u Tom ka pah,Tom's phone rang
+Nga tip phi don maphi kato,I know you have it with you
+U Tom u pynlait im ianga,Tom just saved my life
+Nga sngewtynnad ki briew kiba pynsamrkhie,I like funny guys
+Maka ruh ka tip ia kata,She knows that as well
+Ngam bam re kane ka dohkha,I'm not eating this fish
+U Sami um tieng iaka khlaw,Sami is not afraid of the jungle
+Um i kumba u lah thait,He doesn't look like he's tired
+Ka ong ba ka la kdang,She said that she was full
+Nga park ia ka kali hangtei,My car is parked over there
+Kim pat dep bam ja sngi,They haven't finished their lunch yet
+U Tom u dang pynleit jingmut,Tom is still paying attention
+U Sami um ju burom ianga,Sami was never respectful to me
+Kine ki patlun kim biang ianga,These pants don't fit me
+Kine ki patlun kim ñiam ianga,These pants don't fit me
+Kane ka patlun kam biang ianga,These pants don't fit me
+Kane ka patlun kam ñiam ianga,These pants don't fit me
+U Sami u la shah kem,Sami was arrested
+U don dakmong ha kjat kamon,He has a bruise on his right leg
+Ngam tip bha shaphang jong u,I knew very little about him
+U dei hok ba un sngapjar,He was right to keep silent
+Long phin khot ia u Tom?,Would you mind calling Tom for me?
+Ngi dei ban pyrshang ia kane,We should give this a try
+Ka don bad ki ksew jongka,She's with her dogs
+Kane kadei na ka bynta jongnga,This is for me
+Une udei na ka bynta jongnga,This is for me
+Yn ym don da kawei ka por,There won't be a next time
+Pynpait ki pylleng bad weng ki shangai,Break the eggs and remove the yolks
+Ka nar ka ran ynda lah pjah,Metal contracts when cooled
+U khublei ianga da ki khmat jongu,He thanked me with his eyes
+Phi tip dei shaphang kaei kine baroh?,Do you know what this is all about?
+Ka khlem da long kumba nga mut,It didn't work out quite like I intended it to
+Phi ia mynjur bad u Tom dei?,You agree with Tom right?
+U Tom u dang shu dep pynkhreh,Tom is just finishing setting up
+Ki masi ki im da u phlang,Cows live on grass
+Ki masi ki ai iangi ka dud,Cows give us milk
+Ka jingshisha ka pynmih ia ka jingisih,The truth bears hatred
+Ka jingshisha ka pynmih ia ka jingiashun,The truth bears hatred
+Ki dngiem ki lah ban kiew dieng,Bears can climb trees
+Balei ba nga hap ban nang french,Why do I need to learn French?
+Ka Emily ka isih ia ki painkhana,Emily hates toilets
+Nga leid ia ktien japan bad korea,I like Chinese and Japanese
+Kine ki dei ki khulom jong u,These pens are his
+U practice tem guitar baroh shi miet,He practices playing the guitar far into the night
+Phi nang ban pyndonkam ia ki chopsticks?,Do you know how to use chopsticks?
+U Brian u sah hajrong u lum,Brian lives over the hill
+Phi lah ban iathuh ia nga lashai,You can tell me tomorrow
+Nga hap ban ai jop ia ka,I had to let her win
+Khublei ba phi lah pynshet iaka um,Thank you for boiling the water
+Nga shim iaka kum ka dak jingkyrmen,I take it as a sign of hope
+Ka pyrthei ka rkhie da ki syntiew,Earth laughs in flowers
+U Ned u bad pynieng iaka lama,Ned held the flag erect
+U Tom u deng ka iitkhmat jongu,Tom put on his sunglasses
+Phi kwah ban wan shong bad nga?,Do you want to come sit by me?
+Ngi dei ban mih noh mynta mynta,We must leave immediately
+Ka jingshisha ka long ba nga thok,The truth is I told a lie
+Balei ki mrad kim lah ban kren?,Why can't animals talk?
+Kine ki mrad ki long paralok bha,These animals are friendly
+Kam dei ka snam dei u bit,It's not blood It's beet
+Balei um ju bamjasngi shuh bad nga?,Why doesn't he eat lunch with me anymore?
+Ki ia tieng lut i'u Tom,They're all scared of Tom
+Phi lah ban leit lada phi kwah,You can go if you want to
+Me lah ban leit lada me kwah,You can go if you want to
+Pha lah ban leit lada pha kwah,You can go if you want to
+Nga call sha office jong u mynin,I called at his office yesterday
+Mynta nga thoh da ki dak thymmai,Now I write with the new font
+Phi lah ban leh katba phi mon,You may do what you wish
+Iathuh ianga haei ka waiñ ka don,Tell me where the wine is
+Iathuh ianga haei ka don ka waiñ,Tell me where the wine is
+Kane ka kot kadei ka kot thymmai,That book is a new book
+Kane ka kitab kadei ka kitab thymmai,That book is a new book
+U Tom u khlem leh bakla eiei,Tom didn't do anything wrong
+Nga shu donkam katto-katne u aspirin,I just need some aspirin
+U Tom u don ha ka surgery?,Is Tom in surgery?
+Lada phi kwah Jinsuk pynkhreh iaka thma,If you want peace prepare for war
+U Tom u pankylliang pisa na ngi,Tom borrowed some money from us
+Don duna um bha ha kophi jongphi,There is very little water in your coffee
+"Me thiah bad ka!" "Nga khlem thiah","You slept with her!" "I did not"
+Bunsap lane jaituh Hynrei ym baroh ar,Either skillful or lazy But not both
+Kane ka sentence ka dei jong nga,This sentence is mine
+Ka buh ia ki khun sha jingthiah,She puts the children to bed
+Nga shong baroh shi miet thoh jingthoh,I've been up all night writing
+Nga khlem ai eiei ia u Tom,I didn't give Tom anything
+Ngam shem ai eiei ia u Tom,I didn't give Tom anything
+Kaei ka kyrteng jong kane ka wah?,What is the name of this river?
+Ai ia u Tom katba u pan,Give Tom everything he asks for
+Mano ba stet tam naki lai ngut?,Who runs the fastest of the three?
+Ngan sa iakynduh ia pha ha ïng,I'll see you at home
+Kan sa ai party la shem taiew,She will give a party next week
+Ki juti nga ki long rong brown,My shoes are brown
+Sngewbha tangba kato kadei ka racket jongnga,Pardon me but that is my racket
+Dei manga ba pyniap ia u Kennedy,It was me who killed Kennedy
+Haduh katno ngi hap ban ap hangne?,How long do we have to wait here?
+Ka eriong ka pynngam ia ka lieng,The storm sank the boat
+Nga dang kylli jingkylli ia i pa,I am asking questions to my father
+Nga tip phi don essay ban thoh,I know you have an essay to write
+Phi mut ban leh aiu-aiu de?,What else are you planning to do?
+Kato ka khubor ka lah saphriang lut,That news got around
+Nga wan namar me thoh aiu re,I came because of something you wrote
+I pa i ai game computer ianga,A computer game was given to me by my father
+Nga pyrshang ban install ka browser thymmai,I tried to install a new browser
+U pyni iangi kumno ban ñiah kulai,He showed us how to ride a horse
+Uwei-pa-uwei naki u don kali,Each of them has his own car
+Balei phi shait kylli bun jingkylli bha?,Why do you always ask so many questions?
+Ka long ka briew kaba bhabriew bha,She is a very beautiful woman
+Ka thok ban iada iaka longïing jongka,She lied to protect her family
+Phi sia phi ia pahuh por shibun,You guys have too much time on your hands
+Ka lok u Sami ka don hangto,Sami's wife was there
+Map Nga khlem mut ban mut eiei,I'm sorry I didn't mean to imply anything
+U don dak jingmong ha kjat kamon,He has a bruise on his right leg
+U don ka hok ban iada ialade,He had the right to defend himself
+Nga iohi u Tom u mareh shathie,I saw Tom running down the street
+Lah slem u Tom um pat jngi,Tom hasn't been swimming in a long time
+Ngan da bna bha shaphang jong u,I knew very little about him
+Balei phim ju iathuh ianga shaphang kata?,Why didn't you ever tell me that?
+Balei pham ju iathuh ianga shaphang kata?,Why didn't you ever tell me that?
+Balei mem ju iathuh ianga shaphang kata?,Why didn't you ever tell me that?
+U Kren ianga mynba u ïohi ianga,He spoke to me when he saw me
+Ki lah tip lypa kin leh aiu,They already know what they'll do
+U Tom u don bun ki paralok,Tom has lots of friends
+Phi leh aiu ha kato ka por?,What were you doing at that time?
+Me leh aiu ha kato ka por?,What were you doing at that time?
+Pha leh aiu ha kato ka por?,What were you doing at that time?
+Kumba katno sngi phin don ha Boston?,About how many days will you be in Boston?
+Kumba katno sngi phan don ha Boston?,About how many days will you be in Boston?
+Kumba katno sngi men don ha Boston?,About how many days will you be in Boston?
+Ka miaw ka paw na khrum ka mieij,A cat appeared from under the desk
+U Tom u lah dei ban sngewsih bha,Tom must've been very disappointed
+Kane ka account kam iamynjur bad ki jingshisha,This account does not agree with the facts
+Phi leh aiu na ka bynta ka team?,What do you do for the team?
+Kumno phi tip u Tom u don hangto?,How do you know Tom is there?
+Kumno me tip u Tom u don hangto?,How do you know Tom is there?
+Kumno pha tip u Tom u don hangto?,How do you know Tom is there?
+U khynnah u saitlah ban ngeit iau nonghikai,The student refused to obey his teacher
+U Tom um ju iohi ia ka Mary,Tom never saw Mary
+Ka Germany ka dei ka ri ba khriat,Germany is a cold country
+Nga khlem don por tang ban airong ruh,I didn't even have time to paint!
+Phi nang kumno ban pyndonkam ia ki chopsticks?,Do you know how to use chopsticks?
+Ha kawei pat ka por wat pynhap iaka,Next time don't drop it
+Ngam kwah ban tip eiei shaphang u Tom,I don't want to know anything about Tom
+Nga hap ban ailad ba kan jop maka,I had to let her win
+Ki briew ki iakren ha kajuh ka por,People are speaking at the same time
+Iei i Disney character ba best tam maphi?,Who's your favorite Disney character?
+Ka Mary ka lah ialam bakla ia phi,Mary misled you
+Phi dei maphi ba hap siew iaka bill,You're the one who should pay the bill
+Kam ju iohi shuh ia ka hymmen jongka,She never saw her sister again
+U Tom bad Ka Mary ki don shabar,Tom and Mary are outside
+Ngam sngewtynnad iakane ka kot Ka phyrnai palat,I don't like this paper It's too shiny
+Ngam sngewtynnad iakane ka kot Ka shai palat,I don't like this paper It's too shiny
+Ngan leh ia kaei kaba dei ban leh,I'll do what must be done
+U Tom u kham bunkam ban ia nga,Tom was even busier than I was
+U Tom u khlem leh eiei ba bakla,Tom didn't do anything wrong
+U Tom un sa iap khlem jingiarap jongphi,Tom will die without your help
+U Tom um tip eiei u leh aiu,Tom has no idea what he's doing
+U Tom um tip eiei aiu u leh,Tom has no idea what he's doing
+U Tom um tip eiei ba u leh,Tom has no idea what he's doing
+Ka Tokyo ka kham heh ban iaka Yokohama,Tokyo is bigger than Yokohama
+Nga kwah ba un leit hapoh shiteng sngi,I want him gone by noon
+Ngam lah ngeit ngi dang ia don hangne,I can't believe we're all still here
+Ngam thikna mano ba bat ka suitcase nga,I'm not sure who has my suitcases
+Ka Mary ka shet kylla ia u Tom,Mary threw Tom under the bus
+Nga slem te nga duh iaka flight 501,I was late so I missed flight 501
+Nga shu kwah ia u ba un phet,I just want him to go away
+Ngam tip u Tom un wan ne em,I don't know if Tom is coming or not
+Jingphohsniew jongphi ki kyllain kum ki jingruma jongnga,Your dreams are almost as twisted as my nightmares
+Ngi dei ban trei katba ngi dang im,We must work as long as we live
+Katba ngi dang im ngi dei ban trei,We must work as long as we live
+Nga lah poi sha Boston katto katne sien,I've been to Boston numerous times
+Nga lah leit sha Boston katto katne sien,I've been to Boston numerous times
+Nga lah pynlut bun ka jingim jongnga hangne,I've spent most of my life here
+U ai kajuh ka jubab kum kaba hashuwa,He gave the same answer as before
+Mynta ki por ym don ba ngeit rngai,Nowadays no one believes in ghosts
+Nga ai khublei iaphi naduh ka dohnud jongnga,Thank you with all my heart
+Ki i kumba ki tip lut shaphang jongngi,They seem to know all about us
+Phi kylli bun jingkylli bha hato kam dei?,You really do ask a lot of questions don't you?
+Phi lah thied lypa ka ticket jong phi?,Have you already bought your ticket?
+Kumno phi ioh jingbit ban leh ia kata?,How did you get permission to do that?
+U la phla ba u la leh shiliang,He admitted that he was biased
+Ki lah lah ban pyndep hi da lade,They could've done it by themselves
+Lada dei nga ngan leit kai sha Boston,I'd visit Boston if I were you
+Kim shah iaphi ba phin leh kumto hangne,They won't permit you to do that here
+Ki iathuh iangi ia kaei ba ki tip,They told us what they knew
+Um shem lah ban leh hi da lade,He couldn't do that by himself
+U Sami unhap ban shaniah ia ka Layla,Sami needs to trust Layla
+Phi tip mano ba dei kmie u Tom?,Do you know who Tom's mother is?
+Phi tip i kmie u Tom dei mano?,Do you know who Tom's mother is?
+Ka Mary ka ong ba kan ym leh,Mary said that she wouldn't do it
+Ka Mary kam sngewtynnad iaka sofa bathymmai jongka,Mary doesn't like her new sofa
+Ka Mary ka ong ba kam bunkam lashai,Mary says she's not busy tomorrow
+U ong ba u donkam ban leit thiedjingthied,He said he needs to go shopping
+Ki ong ba ki tieng ban leit shato,They said they were afraid to go there
+Ki ong ba ki tieng ban leit shatai,They said they were afraid to go there
+Ki ong ba ki tieng ban leit shata,They said they were afraid to go there
+Ki ong ba ki tieng ban leit shatei,They said they were afraid to go there
+Ngam lah shah shuh iaka jingkhkemakor u Tom,I can't put up with Tom's bad manners any longer
+Phim dei ban leh kum kato da lade,You should not do that kind of thing by yourself
+Mem dei ban leh kum kato da lade,You should not do that kind of thing by yourself
+Pham dei ban leh kum kato da lade,You should not do that kind of thing by yourself
+Ka Mary ka song kyrkieh ia ka suitcase,Mary hastily packed her suitcase
+Kumno sa don ki jaid briew kum maphi?,How do people like you get to be people like you?
+Kumno sa don ki jaid briew kum mame?,How do people like you get to be people like you?
+Kumno sa don ki jaid briew kum mapha?,How do people like you get to be people like you?
+U Sami u long u kpa ba bha,Sami is a good dad
+U Sami u long u kpa ba biang,Sami is a good dad
+Nga iathuh lut ia i mei i pa,I told my parents everything
+U kren ianga por ba u ïohi ianga,He spoke to me when he saw me
+Nga shu rkhie namar baroh ki ia rkhie,I just laughed because everyone else did
+U Tom um kwah ban leit shato marwei,Tom didn't want to go there alone
+U Tom um kwah ban leit shatei marwei,Tom didn't want to go there alone
+U Tom um kwah ban leit shatai marwei,Tom didn't want to go there alone
+Nga phong bakla da lyndet ia ki gloves,I put my gloves on inside out by mistake
+Kane ka kot ka suk ianga ban pule,This book is easy for me to read
+Ka race shispah mitar kan sdang ar baje mynsngi, The Hundred meter race will start at two o'clock
